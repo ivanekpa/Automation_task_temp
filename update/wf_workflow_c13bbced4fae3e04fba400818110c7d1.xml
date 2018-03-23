@@ -2,7 +2,7 @@
 <record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"activities":{},"ends":["153bbced4fae3e04fba400818110c7dd"],"subflows":[],"stages":{}}</activity_stages>
+        <activity_stages>{"subflows":[],"stages":{},"activities":{},"ends":["153bbced4fae3e04fba400818110c7dd"]}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -32,9 +32,9 @@
         <sys_created_by>admin.ivanepav</sys_created_by>
         <sys_created_on>2017-05-05 08:49:13</sys_created_on>
         <sys_id>413bbced4fae3e04fba400818110c7d2</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin.ivanepav</sys_updated_by>
-        <sys_updated_on>2017-05-05 10:20:39</sys_updated_on>
+        <sys_updated_on>2018-03-06 14:06:54</sys_updated_on>
         <table>x_tieoy_automation_task</table>
         <timezone/>
         <validated>true</validated>
